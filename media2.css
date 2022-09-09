@@ -1,0 +1,16 @@
+@import './media3.css';
+
+#myid{
+    background-color: red;
+
+}
+.myclass{
+    background-color: green;
+}
+.myclass{
+    background-color: yellow!important;
+}
+p{
+    background-color: orange;
+}
+
